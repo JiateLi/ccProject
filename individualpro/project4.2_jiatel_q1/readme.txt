@@ -1,0 +1,1 @@
+ngram.java is the source code for Question1

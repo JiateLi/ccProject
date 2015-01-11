@@ -1,0 +1,1 @@
+invertedindex.java is the source code for Question Inverted Index

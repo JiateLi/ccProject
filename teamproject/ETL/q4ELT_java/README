@@ -1,0 +1,4 @@
+mapper.java: reprint the filed from our first map reduce output in order to sort by date, location, hashtags, tweet id, and index.
+reducer.java: count the number of a hashtag in the same date and same location, node down its first(smallest) tweet id and index. 
+reducer2.java: use the output of reducer.java as input and get the rank of the hashtag in the same date and same location according to the requirement of question
+transform_q3_1.cc: use the output of q3 map reduce, and find all userid who retweeted one user id and add () according to the requirement of question3.

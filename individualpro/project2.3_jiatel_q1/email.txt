@@ -1,0 +1,389 @@
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [95.19333333333333, 92.82666666666667]." at "Saturday 04 October, 2014 01:52:11 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [95.19333333333333, 92.82666666666667].
+- Timestamp:                  Saturday 04 October, 2014 01:52:11 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up] [arn:aws:sns:us-east-1:419012228907:15619_project_jiate]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [94.11500000000001, 96.83]." at "Saturday 04 October, 2014 02:05:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [94.11500000000001, 96.83].
+- Timestamp:                  Saturday 04 October, 2014 02:05:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:sns:us-east-1:419012228907:15619_project_jiate] [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [85.8325, 92.0]." at "Saturday 04 October, 2014 02:09:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [85.8325, 92.0].
+- Timestamp:                  Saturday 04 October, 2014 02:09:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:sns:us-east-1:419012228907:15619_project_jiate] [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [89.54666666666667, 80.33]." at "Saturday 04 October, 2014 02:26:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [89.54666666666667, 80.33].
+- Timestamp:                  Saturday 04 October, 2014 02:26:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:sns:us-east-1:419012228907:15619_project_jiate] [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [84.8775, 86.89]." at "Saturday 04 October, 2014 02:34:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [84.8775, 86.89].
+- Timestamp:                  Saturday 04 October, 2014 02:34:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:sns:us-east-1:419012228907:15619_project_jiate] [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [93.97333333333334, 95.71333333333332]." at "Saturday 04 October, 2014 03:01:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [93.97333333333334, 95.71333333333332].
+- Timestamp:                  Saturday 04 October, 2014 03:01:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up] [arn:aws:sns:us-east-1:419012228907:15619_project_jiate]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [96.09000000000002, 93.44]." at "Saturday 04 October, 2014 03:14:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [96.09000000000002, 93.44].
+- Timestamp:                  Saturday 04 October, 2014 03:14:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up] [arn:aws:sns:us-east-1:419012228907:15619_project_jiate]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [88.92750000000001, 94.33]." at "Saturday 04 October, 2014 03:21:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [88.92750000000001, 94.33].
+- Timestamp:                  Saturday 04 October, 2014 03:21:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up] [arn:aws:sns:us-east-1:419012228907:15619_project_jiate]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_up_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [90.845, 91.67]." at "Saturday 04 October, 2014 03:28:21 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_up_on_cpu
+
+Alarm Details:
+- Name:                       scale_up_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 3 datapoints were greater than the threshold (80.0). The most recent datapoints: [90.845, 91.67].
+- Timestamp:                  Saturday 04 October, 2014 03:28:21 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is GreaterThanThreshold 80.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:381be259-0071-4cb2-80bd-73a06b19e057:autoScalingGroupName/my_group:policyName/scale_up] [arn:aws:sns:us-east-1:419012228907:15619_project_jiate]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
+
+
+You are receiving this email because your Amazon CloudWatch Alarm "scale_down_on_cpu" in the US - N. Virginia region has entered the ALARM state, because "Threshold Crossed: 2 datapoints were less than the threshold (65.0). The most recent datapoints: [34.72, 1.6766666666666665]." at "Saturday 04 October, 2014 03:30:40 UTC".
+
+View this alarm in the AWS Management Console:
+https://console.aws.amazon.com/cloudwatch/home?region=us-east-1#s=Alarms&alarm=scale_down_on_cpu
+
+Alarm Details:
+- Name:                       scale_down_on_cpu
+- Description:                
+- State Change:               OK -> ALARM
+- Reason for State Change:    Threshold Crossed: 2 datapoints were less than the threshold (65.0). The most recent datapoints: [34.72, 1.6766666666666665].
+- Timestamp:                  Saturday 04 October, 2014 03:30:40 UTC
+- AWS Account:                419012228907
+
+Threshold:
+- The alarm is in the ALARM state when the metric is LessThanThreshold 65.0 for 60 seconds. 
+
+Monitored Metric:
+- MetricNamespace:            AWS/EC2
+- MetricName:                 CPUUtilization
+- Dimensions:                 [AutoScalingGroupName = my_group]
+- Period:                     60 seconds
+- Statistic:                  Average
+- Unit:                       not specified
+
+State Change Actions:
+- OK: 
+- ALARM: [arn:aws:sns:us-east-1:419012228907:15619_project_jiate] [arn:aws:autoscaling:us-east-1:419012228907:scalingPolicy:8d539910-88aa-4218-acd4-617847f13393:autoScalingGroupName/my_group:policyName/scale_down]
+- INSUFFICIENT_DATA: 
+
+
+--
+If you wish to stop receiving notifications from this topic, please click or visit the link below to unsubscribe:
+https://sns.us-east-1.amazonaws.com/unsubscribe.html?SubscriptionArn=arn:aws:sns:us-east-1:419012228907:15619_project_jiate:7dc82e90-b057-43cf-bcc7-d6ee20873922&Endpoint=lijiate1992@gmail.com
+
+Please do not reply directly to this e-mail. If you have any questions or comments regarding this email, please contact us at https://aws.amazon.com/support
